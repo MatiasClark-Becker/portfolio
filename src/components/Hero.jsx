@@ -6,13 +6,13 @@ export default function Hero() {
       </h1>
 
       <div className="flex space-x-8">
-        <a href="https://github.com" target="_blank" rel="noreferrer" className="transition-transform hover:scale-110">
+        <a href="https://github.com/MatiasClark-Becker" target="_blank" rel="noreferrer" className="transition-transform hover:scale-110">
           <img src="/github.svg" alt="GitHub" className="h-10 w-10 lg:h-14 lg:w-14" />
         </a>
-        <a href="mailto:you@example.com" className="transition-transform hover:scale-110">
+        <a href="mailto:matias.clarkbecker@gmail.com" className="transition-transform hover:scale-110">
           <img src="/mail.svg" alt="Email" className="h-10 w-10 lg:h-14 lg:w-14" />
         </a>
-        <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="transition-transform hover:scale-110">
+        <a href="https://linkedin.com/in/matiasclarkbecker" target="_blank" rel="noreferrer" className="transition-transform hover:scale-110">
           <img src="/linkedin.svg" alt="LinkedIn" className="h-10 w-10 lg:h-14 lg:w-14" />
         </a>
       </div>
