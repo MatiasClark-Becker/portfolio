@@ -5,9 +5,9 @@ export default function Experience() {
 
       <div className="space-y-6 w-full max-w-3xl">
         <div className="bg-gray-100 dark:bg-black bg-opacity-75 p-8 rounded-lg shadow-md">
-          <h3 className="text-xl sm:text-3xl font-semibold">Job Title</h3>
-          <p className="text-gray-700 dark:text-gray-300 sm:text-xl">Company - Location</p>
-          <p className="italic text-sm sm:text-lg text-gray-500">Date Range</p>
+          <h3 className="text-xl sm:text-3xl font-semibold">Business Analyst</h3><br />
+          <p className="text-gray-700 dark:text-gray-300 sm:text-xl">Rideau Sports Centre - Ottawa, Canada</p><br />
+          <p className="italic text-sm sm:text-lg text-gray-500">July 2023 - August 2023</p>
         </div>
       </div>
     </section>

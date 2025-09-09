@@ -4,7 +4,7 @@ export default function Header() {
       <div className="mx-4 sm:mx-6 lg:mx-14 flex justify-between items-center">
         {/* Logo */}
         <a href="#hero" className="flex items-center">
-          <img src="/logo.svg" alt="Logo" className="h-12 w-12 lg:h-16 lg:w-16" />
+          <img src="/mcb_logo2.svg" alt="Logo" className="h-15 w-15 lg:h-18 lg:w-18" />
         </a>
 
         {/* Nav (Desktop) */}
