@@ -7,7 +7,7 @@ import BackgroundCanvas from "./components/BackgroundCanvas.jsx";
 
 export default function App() {
   return (
-    <div className="overscroll-none bg-white dark:bg-black text-black dark:text-white">
+    <div className="overscroll-none font-serif text-black dark:text-white">
       {/* Background */}
       <div className="fixed top-0 left-0 w-full h-screen -z-10">
         <BackgroundCanvas />

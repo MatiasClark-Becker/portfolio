@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <section id="hero" className="min-h-screen flex flex-col items-center justify-center space-y-8 px-4">
-      <h1 className="text-center font-bold text-7xl sm:text-8xl lg:text-7xl">
+      <h1 className="text-center font-serif text-7xl sm:text-8xl lg:text-7xl">
         MATIAS CLARK-BECKER
       </h1>
 

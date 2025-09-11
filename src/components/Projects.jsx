@@ -7,7 +7,7 @@ export default function Projects() {
         <div className="bg-gray-100 dark:bg-black bg-opacity-75 p-6 rounded-lg shadow-md flex flex-col justify-between">
           <h3 className="text-xl sm:text-3xl font-semibold">Traversible Orrery</h3>
           <p className="text-gray-700 dark:text-gray-300 sm:text-xl mt-2">An award winning, cross-platform hackathon web app visualizing the solar system with accurate planet orbits using NASA's Keplerian data.
-            My team and I developed 3D models and camera movement with three.js, and translated orbit calculations into Python functions which could then be modeled within the Three.js canvas.</p>
+            My team and I developed 3D models and camera movement with three.js, and translated orbit calculations into Python functions.</p>
           <p className="italic text-sm sm:text-lg text-gray-500 mt-2">three.js, Python 3, JavaScript, NumPy</p>
           <div className="flex space-x-6 mt-4">
             <a href="https://github.com/MatiasClark-Becker/Dynamic-Orrery-Web-App" target="_blank" rel="noreferrer" className="transition-transform hover:scale-110">
