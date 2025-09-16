@@ -11,9 +11,9 @@ export default function Header() {
 
         {/* Nav (Desktop) */}
         <nav className="hidden lg:flex gap-12 xl:gap-16">
-          <a href="#about-me" className="font-sans text-white dark:text-[rgba(255,255,255,1)] duration-500 hover:text-gray-500">About</a>
-          <a href="#experience" className="font-sans text-white dark:text-[rgba(255,255,255,1)] duration-500 hover:text-gray-500">Experience</a>
-          <a href="#projects" className="font-sans text-white dark:text-[rgba(255,255,255,1)] duration-500 hover:text-gray-500">Projects</a>
+          <a href="#about-me" className="font-roboto text-white dark:text-[rgba(255,255,255,1)] duration-500 hover:text-gray-500">About</a>
+          <a href="#experience" className="font-roboto text-white dark:text-[rgba(255,255,255,1)] duration-500 hover:text-gray-500">Experience</a>
+          <a href="#projects" className="font-roboto text-white dark:text-[rgba(255,255,255,1)] duration-500 hover:text-gray-500">Projects</a>
         </nav>
       </div>
     </header>
